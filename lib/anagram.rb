@@ -1,5 +1,6 @@
 class Anagram
-  attr_writer
+  attr_accessor :word 
+  
   
   
 end
